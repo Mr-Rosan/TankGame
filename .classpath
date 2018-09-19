@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/教学/2018级Java班/2018年上学期/03Java高级程序设计/Java游戏开发示例/播放mp3支持jar包/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
